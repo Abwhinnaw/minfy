@@ -1,0 +1,9 @@
+r25xlarge
+
+
+transit gateway only network
+
+in nat gatway we need to attach the public ip
+
+in public route you will attach the internet.
+in the private route u will attach the nat gateway.
